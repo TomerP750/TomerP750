@@ -13,8 +13,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TomerP750&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TomerP750&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2>My Skills</h2>
+![Java](https://img.shields.io/badge/Java-8%2B-orange)
+![React](https://img.shields.io/badge/React-18.0%2B-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![HTML](https://img.shields.io/badge/HTML-5-blue)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomerp750&show_icons=true&locale=en&layout=compact" alt="tomerp750" /></p>
 
